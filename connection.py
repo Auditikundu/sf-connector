@@ -1,6 +1,4 @@
-https://github.com/Auditikundu/sf-connector.git
-
-mport snowflake.connector
+import snowflake.connector
  
 conn = snowflake.connector.connect(
     user= 'AUDITI',
